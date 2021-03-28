@@ -1,0 +1,15 @@
+-dt s,d,r,a
+-pl 60
+-pw 132
+-g
+-cwno
+-cpu MB90F387S
+"C:\426_Espina\Activity\CpE_426L\Exer3-DE\Debug\ABS\Exer3-DE.abs"
+-a "C:\426_Espina\Activity\CpE_426L\Exer3-DE\Debug\OBJ\_io_prl01.obj"
+-a "C:\426_Espina\Activity\CpE_426L\Exer3-DE\Debug\OBJ\_io_prl23.obj"
+-a "C:\426_Espina\Activity\CpE_426L\Exer3-DE\Debug\OBJ\_io_tmr.obj"
+-a "C:\426_Espina\Activity\CpE_426L\Exer3-DE\Debug\OBJ\_FFMC16.obj"
+-a "C:\426_Espina\Activity\CpE_426L\Exer3-DE\Debug\OBJ\main.obj"
+-a "C:\426_Espina\Activity\CpE_426L\Exer3-DE\Debug\OBJ\monitor16LX.obj"
+-a "C:\426_Espina\Activity\CpE_426L\Exer3-DE\Debug\OBJ\start905s.obj"
+
